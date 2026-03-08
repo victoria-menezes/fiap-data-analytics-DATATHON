@@ -55,7 +55,6 @@ st.title("Análise e previsão de defasagem dos alunos Passos Mágicos")
 # <iframe title="TC4" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMGEzZTE1NzktZTc3Ni00MDRjLWFmMmUtZWRmMTVhMTU2MGE1IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9&pageName=5fc763e30871cfb17422" frameborder="0" allowFullScreen="true"></iframe>
 # '''
 
-write_header('Análise')
 # st.components.v1.html(
 #     embed,
 #     width = 1024,
@@ -68,6 +67,7 @@ st.write(f'##### Foi considerado qualquer aluno com uma probabilidade de defasag
 st.write(f'O modelo foi construindo visando minimizar os **falsos negativos**; ou seja, **sinalizar o máximo de alunos com defasagem possível**, afim de evitar que algum deles passe despercebido.\nComo consequência, o modelo sinaliza **falsos positivos** com uma frequência mais elevada. As estatísticas de precision, recall, etc, estão disponíveis no notebook do github.')
 st.write('Caso um dado ultrapassar limites impostos pelo app, deixe o valor no máximo (caso maior), ou no mínimo (caso menor).')
 st.write('O modelo irá tentar preencher dados faltantes, mas ele será mais efetivo com mais informação.')
+st.write('O relatório com a análise dos dados forcenidos está disponível no github.')
 st.link_button(label='GitHub', url = 'https://github.com/victoria-menezes/fiap-data-analytics-DATATHON')
 
 
