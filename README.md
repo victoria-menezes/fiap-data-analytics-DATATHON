@@ -5,9 +5,18 @@ Projeto Datathon pela Faculdade FIAP, enunciado descrito abaixo.
 
 `requirements.txt` se refere às bibliotecas necessárias para o app StreamLit.
 
-`datathon.pdf` é o relatório do projeto.
+`datathon.pdf` é o relatório do projeto, montado no PowerBI.
 
 ## [Streamlit](https://victoriamenezes-fiap-data-analytics-datathon.streamlit.app/)
+
+O modelo apresenta as estatísticas em base de treino:
+F1-Score	0.6842105263157895
+
+Accuracy	0.9120879120879121
+
+Recall  	0.8666666666666667
+
+Precision   0.5652173913043478
 
 # Enunciado
 A Associação Passos Mágicos tem uma trajetória de 32 anos de atuação, trabalhando na transformação da vida de crianças e jovens de baixa renda, os levando a melhores oportunidades de vida. A transformação, idealizada por Michelle Flues e Dimetri Ivanoff, começou em 1992, atuando dentro de orfanatos, no município de Embu-Guaçu.
