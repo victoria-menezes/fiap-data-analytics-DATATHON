@@ -18,6 +18,5 @@ Utilizando estratégias de analytics aprendidas aqui no curso da Postech, você 
 7. **Ponto de virada (IPV):** Quais comportamentos - acadêmicos, emocionais ou de engajamento - mais influenciam o IPV ao longo do tempo?
 8. **Multidimensionalidade dos indicadores:** Quais combinações de indicadores (IDA + IEG + IPS + IPP) melhor explicam o desempenho global do aluno (INDE)?
 9. **Previsão de risco com Machine Learning:** Quais padrões nos indicadores permitem identificar alunos em risco antes de queda no desempenho ou aumento da defasagem? Construa um modelo preditivo que mostre uma probabilidade do aluno ou aluna entrar em risco de defasagem.
-Datathon Página 4 de 5
 10. **Efetividade do programa:** Os indicadores mostram melhora consistente ao longo do ciclo nas diferentes fases (Quartzo, Ágata, Ametista e Topázio), confirmando o impacto real do programa?
 11. **Insights e criatividade:** Você pode adicionar mais insights e pontos de vista não abordados nas perguntas, utilize a criatividade e a análise dos dados para trazer sugestões para a Passos Mágicos
