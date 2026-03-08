@@ -107,7 +107,7 @@ count = 0
 
 current_col = cols[count_to_coord(count, ncols)[1]]
 ind = 'pedra'
-user_data[ind] = current_col.selectbox(ind.capitalize(), options = ['', 'Quartzo', 'Ágata', 'Ametista', 'Topázio'], index=0)
+user_data[ind] = current_col.selectbox(ind.capitalize(), options = ['Quartzo', 'Ágata', 'Ametista', 'Topázio'], index=0)
 pedra_map = {
     'Quartzo' : 'Quartzo',
     'Ágata' : 'Ágata',
