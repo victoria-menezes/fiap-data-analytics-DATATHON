@@ -1,3 +1,14 @@
+# O projeto
+Projeto Datathon pela Faculdade FIAP, enunciado descrito abaixo.
+
+`requirements_notebook.txt` se refere às bibliotecas necessárias para o processamento de dados no notebook.
+
+`requirements.txt` se refere às bibliotecas necessárias para o app StreamLit.
+
+`datathon.pdf` é o relatório do projeto.
+
+## [Streamlit](https://victoriamenezes-fiap-data-analytics-datathon.streamlit.app/)
+
 # Enunciado
 A Associação Passos Mágicos tem uma trajetória de 32 anos de atuação, trabalhando na transformação da vida de crianças e jovens de baixa renda, os levando a melhores oportunidades de vida. A transformação, idealizada por Michelle Flues e Dimetri Ivanoff, começou em 1992, atuando dentro de orfanatos, no município de Embu-Guaçu.
 
@@ -7,7 +18,7 @@ A associação busca instrumentalizar o uso da educação como ferramenta para a
 
 Utilizando estratégias de analytics aprendidas aqui no curso da Postech, você tem o desafio de responder algumas dores de negócio listadas neste documento, em um formato de apresentação gerencial e analítico, contando uma história com os dados, trazendo resposta às perguntas, sugerindo oportunidade de melhoria no processo atual. Além da prática de análise de dados e storytelling, esse desafio também traz o desafio do desenvolvimento de um modelo preditivo
 
-## Perguntas norteadoras
+# Perguntas norteadoras
 1. **Adequação do nível (IAN):** Qual é o perfil geral de defasagem dos alunos (IAN) e como ele evolui ao longo do ano?
 (Ex.: quantos alunos estão moderadamente ou severamente defasados?)
 2. **Desempenho acadêmico (IDA):** O desempenho acadêmico médio (IDA) está melhorando, estagnado ou caindo ao longo das fases e anos?
