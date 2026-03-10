@@ -10,6 +10,7 @@ Projeto Datathon pela Faculdade FIAP, enunciado descrito abaixo.
 ## [Streamlit](https://victoriamenezes-fiap-data-analytics-datathon.streamlit.app/)
 
 O modelo apresenta as estatísticas em base de treino:
+
 F1-Score	0.6842105263157895
 
 Accuracy	0.9120879120879121
