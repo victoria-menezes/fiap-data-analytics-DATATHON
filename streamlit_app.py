@@ -51,16 +51,6 @@ def count_to_coord(count, ncols : int = 3):
 ### Website
 st.title("Análise e previsão de defasagem dos alunos Passos Mágicos")
 
-# embed = f'''
-# <iframe title="TC4" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMGEzZTE1NzktZTc3Ni00MDRjLWFmMmUtZWRmMTVhMTU2MGE1IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9&pageName=5fc763e30871cfb17422" frameborder="0" allowFullScreen="true"></iframe>
-# '''
-
-# st.components.v1.html(
-#     embed,
-#     width = 1024,
-#     height = 612
-# )
-
 write_header('Modelo preditivo')
 st.write('Preencha os dados do aluno abaixo, e no final aperte o botão "enviar". O modelo irá avaliar o risco de defasagem do aluno e retornar com uma resposta binária, além da probabilidade calculada.')
 st.write(f'##### Foi considerado qualquer aluno com uma probabilidade de defasagem maior que **{threshold*100:.2f}%** como um aluno em risco. Esse ponto de referência foi calculado com base do f1-score do modelo.')
